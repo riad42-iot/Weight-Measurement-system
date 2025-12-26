@@ -1,9 +1,3 @@
-/* =========================================================
-   FINAL ARDUINO UNO SKETCH
-   HX711 + 16x2 I2C LCD + Buttons + Calibration + EEPROM
-   Low sound = underweight, High sound = overweight
-   ========================================================= */
-
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include "HX711.h"
